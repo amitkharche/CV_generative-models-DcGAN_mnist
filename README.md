@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### 2. Train the Model
 
 ```bash
-python src/train.py
+python -m src.train
 ```
 
 This will:
