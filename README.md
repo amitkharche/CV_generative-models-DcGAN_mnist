@@ -85,3 +85,11 @@ streamlit run streamlit_app/app.py
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Let’s Connect!
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/amit-kharche)
+* 📝 [Medium](https://medium.com/@amitkharche14)
+* 💻 [GitHub](https://github.com/amitkharche)
+
+---
