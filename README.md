@@ -1,4 +1,4 @@
-# 🧠 Project 8: generative-models-dcgan
+# Generative-models-dcgan
 
 ## 🎯 Scope
 DCGAN (Deep Convolutional Generative Adversarial Network) for image generation using the MNIST dataset.
